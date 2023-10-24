@@ -9,6 +9,6 @@ I am a happy person. I hope my current state continues:
 
 # Julien
 
-_I agree with the above resolutions!_
+_I agree with the above resolutions!_ go you!
 
 - I am so glad you agree
