@@ -8,3 +8,5 @@ I am a happy person. I hope my current state continues:
 # Julien
 
 _I agree with the above resolutions!_
+
+- I am so glad you agree
